@@ -2,4 +2,8 @@
 
 simple byte shift operation
 
-cargo run path
+cargo run "path"
+
+CREATE A TEST FOLDER AND GIVE ITS PATH. 
+
+TRY ON VIRTUAL MACHINES, DON'T DO IT ON HOST OPERATING SYSTEM AS IT IS RISKY
